@@ -3,7 +3,7 @@ export default function EventToDo(){
        /* function handleClick(Name){
             alert("How dare you to touch me"+Name);
         }*/
-        /*
+       /* 
         function handleSubmit(e){
             e.preventDefault();//stops page from reloading
             const input=e.target.Task;
@@ -33,11 +33,11 @@ export default function EventToDo(){
             
 </form>
 <ul id="TaskList" onClick={handleClickList} >
+    
             </ul>
         </>
     )
-}
-*/
+}*/
 import { useState } from "react";
 
 export default function EventToDo()
